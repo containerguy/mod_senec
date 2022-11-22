@@ -1,4 +1,4 @@
-[Build_Publish](https://github.com/containerguy/mod_senec/actions/workflows/docker-publish.yml/badge.svg)
+![Pipeline](https://github.com/containerguy/mod_senec/actions/workflows/docker-publish.yml/badge.svg)
 
 # mod_senec
 
